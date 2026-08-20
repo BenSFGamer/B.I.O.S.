@@ -9,7 +9,7 @@
 •Can cross-correlate information gathered 
 
 •Autonomous and semi-autonomous capability. Can be used manually as an assistive tool 
-during the biographical research, compilation, and narrative assembly process, on the 
-the user's or biographer's part.
+during the biographical research, compilation, and narrative assembly process, on the
+user's or biographer's part.
 
 Self-recursive and self-improving
